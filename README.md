@@ -7,3 +7,5 @@ Añado cambio
 
 Segundo cambio
 >>>>>>> stash
+
+otro cambio más
